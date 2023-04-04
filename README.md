@@ -10,6 +10,7 @@ each class. The training batches contain the remaining images in random order, b
 some training batches may contain more images from one class than another. Between
 them, the training batches contain exactly 5000 images from each class.
 (Use the notebook file to experiment with the code)
+
 PART-2
 Train and test a LeNet-5 CNN to classify traffic signs. A user can upload a photo of a
 traffic sign and predict the class. The dataset was taken from the German Traffic Sign
