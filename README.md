@@ -19,3 +19,6 @@ single-image classification challenge at the International Joint conference on N
 Networks (IJCNN) 2011. It was created from about 10 hours of video recorded while
 driving on different roads in Germany during the Daytime. The Data consists of about
 40,000 real colorful photos of traffic signs.
+
+
+https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
